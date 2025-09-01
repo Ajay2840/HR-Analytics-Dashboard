@@ -66,6 +66,6 @@ This project is an HR Analytics Dashboard built using Power BI to analyze and vi
 
 ## 👤 Author
 
-Botu Varun Kumar
-📧 botu.varun@gmail.com
-🔗linkedin.com/in/botu-varun-kumar-45b454275
+Pulagam Ajay Kumar Reddy
+📧 pulagamajaykumarreddy@gmail.com
+🔗https://www.linkedin.com/in/pulagam-ajay-kumar-reddy-7638542a4
