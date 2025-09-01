@@ -1,6 +1,6 @@
 # 🔥 HR Analytics Dashboard
 
-This project is an HR Analytics Dashboard built using Tableau to analyze and visualize key workforce metrics. The dashboard provides insights into employee demographics, attrition, job satisfaction, and department-wise trends. It helps HR teams and management in identifying patterns, improving retention strategies, and enhancing workforce planning.
+This project is an HR Analytics Dashboard built using Power BI to analyze and visualize key workforce metrics. The dashboard provides insights into employee demographics, attrition, job satisfaction, and department-wise trends. It helps HR teams and management in identifying patterns, improving retention strategies, and enhancing workforce planning.
 
 ---
 
@@ -38,7 +38,7 @@ This project is an HR Analytics Dashboard built using Tableau to analyze and vis
 ---
 
 ## 🛠️ Tools & Technologies
-•	Tableau – Data visualization and dashboard building
+•	Power BI – Data visualization and dashboard building
 •	Excel/CSV Dataset – Source of HR employee data
 •	Data Cleaning – Preprocessing for consistency before visualization
 
